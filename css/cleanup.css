@@ -1,3 +1,5 @@
 #wall .tag-1 {
-  display: none;
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: none;
 }
